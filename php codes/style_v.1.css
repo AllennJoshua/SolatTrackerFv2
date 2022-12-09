@@ -1,0 +1,39 @@
+
+a{
+    text-decoration: none;
+}
+
+
+body {
+    font-family: Helvetica, sans-serif;
+
+  }
+
+
+/* register.php styles  */
+
+
+
+.reglogbox{
+    background-color: white;
+    width: 75%;
+    height: 50%;
+    opacity: 87%;
+    text-align: Left;
+    margin: auto;
+    border: 2px ;
+    padding: 10px;
+    border-radius: 5px;
+    position: relative;
+    height: auto;
+    padding: 25px;
+    margin: 50px auto;
+    box-sizing: border-box;
+    border: 1px solid #000000;
+    min-width: 300;
+}
+
+
+
+
+
